@@ -53,7 +53,7 @@ python main.py
 - Requires pre-existing JSON data files
 
 ### Outputs for Existing Users
-![Existing User Output](output_existing_user.png)
+![Existing User Output](neet_insights.png)
 - Total quiz performance
 - Topic-wise accuracy
 - Student persona
